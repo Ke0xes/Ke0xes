@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Ke0xes
-- 👀 I’m interested in cyber operations 
-- 🌱 I’m currently learning to use GitHub 
-- 💞️ I’m looking to collaborate on transforming security operations
-- 📫 How to reach me: (https://kunal.hatode.com)
+## Kunal Hatode - Ke0xes
+![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Active%20Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKe0xes)
+![Followers](https://img.shields.io/github/followers/Ke0xes?style=flat&logo=github)
 
-<!---
-Ke0xes/Ke0xes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Senior Technical Leader** specializing in Cyber Security Operations with **25 years** of experience in solution strategy, design, and optimization of Security Operations Centers.
+
+Currently providing SME expertise in Cyber Security Operations for **CISCO EMEA**.
+
+## 🎯 Focus Areas
+- 🛡️ Security Operations Center strategy & optimization
+- 🔄 Cyber Defence transformation  
+- 👥 Technical leadership & consulting
+
+## 🌐 Connect
+[kunal.hatode.com](https://kunal.hatode.com)
+
+---
+*🚀 Simplifying cybersecurity challenges for enterprise leaders*
