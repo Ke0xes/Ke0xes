@@ -16,3 +16,6 @@ Currently providing SME expertise in Cyber Security Operations for **CISCO EMEA*
 
 ---
 *🚀 Simplifying cybersecurity challenges for enterprise leaders*
+<p>
+<img alt="Visitor Stats" src="https://widgetbite.com/stats/Ke0xes"/>
+</p>
